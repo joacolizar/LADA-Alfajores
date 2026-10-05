@@ -9,19 +9,6 @@ Tecnologías utilizadas
 HTML5
 CSS3
 Google Fonts
-
-ESTRUCTURA DEL PROYECTO
-LADA-Alfajores/
-├── index.html
-├── CSS/
-│   └── styles.css
-├── img/
-│   ├── imágenes de productos
-│   ├── logo
-│   └── imágenes de encabezado
-└── pages/
-    ├── carrito.html
-    └── contacto.html
     
 AUTOR
 Proyecto realizado por Joaquín Lizárraga.
